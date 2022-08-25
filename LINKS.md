@@ -19,3 +19,6 @@ https://pythonspeed.com/articles/activate-virtualenv-dockerfile/
 - https://stackoverflow.com/questions/34398632/docker-how-to-run-pip-requirements-txt-only-if-there-was-a-change
 
 - https://stackoverflow.com/questions/30323224/deploying-a-minimal-flask-app-in-docker-server-connection-issues
+
+**Pushing a project to GitHub**
+https://circleci.com/blog/pushing-a-project-to-github

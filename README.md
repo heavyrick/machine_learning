@@ -30,3 +30,11 @@ $ docker-compose up
 ```
 
 As alterações nos arquivos dentro da pasta `app` serão sincronizadas com o docker, e refletirão nele assim que forem salvas.
+
+O projeto rodará na url `localhost:5000`
+
+Se for necessário acessar os arquivos dentro do docker, basta rodar o comando:
+
+```shell
+$ docker exec -it ml_python bash
+```
