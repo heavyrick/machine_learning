@@ -10369,7 +10369,7 @@ a:focus {
   padding: .5rem 0;
   min-width: 10rem;
   font-size: 0.85rem;
-  margin: 0 0 1rem 0;
+  margin: 0 0 0rem 0;
 }
 
 .sidebar .nav-item .collapse .collapse-inner .collapse-header,
@@ -10535,7 +10535,7 @@ a:focus {
     display: block;
     width: 100%;
     text-align: left;
-    padding: 1rem;
+    padding: 0.8rem;
     width: 14rem;
   }
   .sidebar .nav-item .nav-link i {

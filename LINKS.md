@@ -22,3 +22,11 @@ https://pythonspeed.com/articles/activate-virtualenv-dockerfile/
 
 **Pushing a project to GitHub**
 https://circleci.com/blog/pushing-a-project-to-github
+
+**Start admin**
+https://startbootstrap.com/theme/sb-admin-2
+
+https://github.com/niyonx/flask-startbootstrap-sb-admin-2
+
+**SB Admin Flask**
+https://github.com/app-generator/flask-sb-admin

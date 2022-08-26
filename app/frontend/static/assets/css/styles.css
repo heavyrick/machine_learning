@@ -44,3 +44,19 @@ figcaption {
 td {
     text-align: center;
 }
+
+.sb-sidenav-collapse-arrow {
+    transform: rotate(-90deg);
+}
+
+.sb-sidenav-collapse-arrow {
+    float: right;
+}
+
+.sidebar .nav-item .nav-link {
+    padding: 0.7rem !important;
+}
+
+.sidebar .nav-item .collapse .collapse-inner {
+    margin: 0 !important;
+}
